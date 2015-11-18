@@ -2,6 +2,7 @@
  * Start Bootstrap - Creative Bootstrap Theme (http://startbootstrap.com)
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ * color link = #f05f40
  */
 
 html,
@@ -473,4 +474,12 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #222;
+}
+
+.text-muted , .text-faded{
+	font-family: 'Open Sans',sans-serif;
+}
+
+.item-contact {
+	margin-top: 5px;
 }
